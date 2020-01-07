@@ -17,13 +17,12 @@
       <pubDate>Sat, 21 Dec 2019 17:49:12 +0900</pubDate>
       
       <guid>https://amazonessari.github.io/primal-bodycare/</guid>
-      <description>Overview My role Research Researched about the company and other LP by competitors
+      <description>Overview Our affiliated company produced a personal body coach that diagnoses, analyzes and improves your body. I created the teaser page and the website containing 6 pages for their open. 
+My role Research Researched about the company and other LP by competitors
 Wireframe Placed provided contents without color or assets in Figma
 Design Designed statically including all assets in Figma
 Code HTML, SCSS and JavaScript with Parcel
-Launch Deployed the repository built by Parcel on server
-  Members Takuya Shiomi - Director Prepared contents
-Background</description>
+Launch Deployed the repository built by Parcel on server</description>
     </item>
     
     <item>
@@ -32,13 +31,12 @@ Background</description>
       <pubDate>Fri, 08 Nov 2019 11:45:17 +0900</pubDate>
       
       <guid>https://amazonessari.github.io/progrit/</guid>
-      <description>Overview This is a landing page for the internship recruitment of our external client.
+      <description>Overview This is an intern recruitment LP for our clients to communicate enthusiasm to specific targets. 
 My role Research Researched on the company
 Wireframe Made the contents in Figma
 Design Designed the static page in Figma
 Code Coded in HTML, SCSS with the web application bundler Parcel
-Launch Deployed the repository on the server of our client   Team Fumiya Sorimachi - Mentor Designer Gave me a feedback
-Process &amp;mdash; Preparing &amp;mdash;</description>
+Launch Deployed the repository on the server of our client   Team Fumiya Sorimachi - Mentor Designer Gave me a feedback</description>
     </item>
     
     <item>
@@ -47,12 +45,11 @@ Process &amp;mdash; Preparing &amp;mdash;</description>
       <pubDate>Sun, 27 Oct 2019 22:59:02 +0900</pubDate>
       
       <guid>https://amazonessari.github.io/portfolio-site/</guid>
-      <description>Overview It is my first portfolio website that I designed and coded entirely to show my work. Built by open-source static site generators HUGO.
+      <description>Overview I created this website entirely by myself to broaden job opportunities. It is supposed to be attached along with my resume. Built by the static site generator HUGO that allows me to post reports in markdown to perform regular updates.
 My role Research Researched on award winners websites, HUGO, and JavaScript
 Wireframe Made all the contents in Figma
 Design Designed the static page in Figma
-Code Coded in HTML, SCSS, and pure JavaScript with HUGO
-Process I made this portfolio website to expand job opportunities with attaching to my resume.</description>
+Code Coded in HTML, SCSS, and pure JavaScript with HUGO</description>
     </item>
     
     <item>
@@ -61,12 +58,10 @@ Process I made this portfolio website to expand job opportunities with attaching
       <pubDate>Sun, 27 Oct 2019 22:58:39 +0900</pubDate>
       
       <guid>https://amazonessari.github.io/eod/</guid>
-      <description>Overview EoD is a coaching firm specialized in leadership development. I designed the first official website for them with the design tool Studio.
+      <description>Overview When our affiliated company was launched, I created a corporate site to share the outline of the company. I did it with the web design tool STUDIO that allows you to create responsive static sites by dragg and dropp so that non-developers can edit it later. 
 My role Research About EoD and Studio
 Design Static design in the tool Studio
-  Team Fumiya Sorimachi - Mentor Designer Gave me a feedback
-Takuya Shiomi - Director Prepared contents
-Process Because EoD is our sister company, the client was committed as a director. We used the web design tool Studio for them to feel free to edit content after delivery.</description>
+  Team Fumiya Sorimachi - Mentor Designer Gave me a feedback</description>
     </item>
     
     <item>
@@ -75,13 +70,7 @@ Process Because EoD is our sister company, the client was committed as a directo
       <pubDate>Fri, 27 Sep 2019 22:58:27 +0900</pubDate>
       
       <guid>https://amazonessari.github.io/geeksalon/</guid>
-      <description>Overview GeekSalon is a programming school for university students by our company. I designed a landing page for the trial event limited to female students.
-My role Research Researched about GeekSalon, HTML, CSS, JavaScript
-Wireframe Made all the contents in Figma
-Design Designed the static page in Figma
-Code Coded in HTML, CSS, and JavaScript
-Team Gordon Miyamoto - Senior Designer Gave me a feedback
-Fumiya Sorimachi - Mentor Designer Gave me a feedback</description>
+      <description>Overview GeekSalon is a programming community for university students to complete the planning, development, and release of an app in three months. Assuming a fictional trial event of this GeekSalon for female students, I designed a landing page as a design assignment with receiving feedback from seniors. However, when I proposed the design to the GeekSalon team, we decided to realize the event in autumn 2019 expecting to create new value and synergy.</description>
     </item>
     
     <item>
@@ -90,9 +79,7 @@ Fumiya Sorimachi - Mentor Designer Gave me a feedback</description>
       <pubDate>Tue, 27 Aug 2019 22:57:55 +0900</pubDate>
       
       <guid>https://amazonessari.github.io/manoma/</guid>
-      <description>Overview MANOMA is a new smart home service provided by SONY. It equips with Amazon Alexa to enable voice control, and by inserting LTE SIM, you can easily have a wireless Internet environment without any settings. Our company sells it targeting 20’s. I designed a flyer as product descriptions used in face-to-face sales.
-My role Research Researched on MANOMA, fundamentals of design, Photoshop, and Illustrator
-Making a survey form Made a customer survey form on Google Spreadsheet that is comprehensive in many kinds of designs</description>
+      <description>Overview MANOMA is a new smart home service provided by SONY. Our company sells it targeting 20’s. I designed a flyer as product descriptions used in face-to-face sales. I made it as my first design job with learning Illustrator and Photoshop. The reason why I came to design this flyer is because their original flyer did not have a hierarchy. We solved it by emphasizing the message &amp;ldquo;Switch easily at the low price&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -101,8 +88,8 @@ Making a survey form Made a customer survey form on Google Spreadsheet that is c
       <pubDate>Sun, 07 Apr 2019 12:23:19 +0900</pubDate>
       
       <guid>https://amazonessari.github.io/how-i-learned/</guid>
-      <description>Before internship I have been into creativity in my entire life. When I was a little kid I used try to make anything from trash such as UFO catcher, a scale model and furniture.
-It comes to aesthetics when to create anything. Beautiful stuffs attract me a lot, but I thought it is a natural born talent and there is nothing I can do. However I had a chance to learn design as an intern through my friend.</description>
+      <description>Background I started customizing HTML/CSS at 12 years old for my diary blog. However, since I was too eager in it, my mom took the laptop away from me soon. Since then, I had not touched a computer.
+Meanwhile, I was dreaming to live abroad because I only grew up in a small town in Japan with seeing other cultures through media but no chance to travel. Finally, I made it to NewZealand and Australia for a long stay at 19 after saving up.</description>
     </item>
     
   </channel>
