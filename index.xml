@@ -6,43 +6,15 @@
     <description>Recent content on ARIFOLIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Dec 2019 17:49:12 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2020 22:59:02 +0900</lastBuildDate>
     
 	<atom:link href="https://amazonessari.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Primal Bodycare</title>
-      <link>https://amazonessari.github.io/primal-bodycare/</link>
-      <pubDate>Sat, 21 Dec 2019 17:49:12 +0900</pubDate>
-      
-      <guid>https://amazonessari.github.io/primal-bodycare/</guid>
-      <description>Overview Our affiliated company produced a personal body coach that diagnoses, analyzes and improves your body. I created the teaser page and the website containing 6 pages for their open. 
-My role Research Researched about the company and other LP by competitors
-Wireframe Placed provided contents without color or assets in Figma
-Design Designed statically including all assets in Figma
-Code HTML, SCSS and JavaScript with Parcel
-Launch Deployed the repository built by Parcel on server</description>
-    </item>
-    
-    <item>
-      <title>PROGRIT</title>
-      <link>https://amazonessari.github.io/progrit/</link>
-      <pubDate>Fri, 08 Nov 2019 11:45:17 +0900</pubDate>
-      
-      <guid>https://amazonessari.github.io/progrit/</guid>
-      <description>Overview This is an intern recruitment LP for our clients to communicate enthusiasm to specific targets. 
-My role Research Researched on the company
-Wireframe Made the contents in Figma
-Design Designed the static page in Figma
-Code Coded in HTML, SCSS with the web application bundler Parcel
-Launch Deployed the repository on the server of our client   Team Fumiya Sorimachi Mentor Designer - Gave me a feedback</description>
-    </item>
-    
-    <item>
       <title>Portfolio Site</title>
       <link>https://amazonessari.github.io/portfolio-site/</link>
-      <pubDate>Sun, 27 Oct 2019 22:59:02 +0900</pubDate>
+      <pubDate>Tue, 07 Jan 2020 22:59:02 +0900</pubDate>
       
       <guid>https://amazonessari.github.io/portfolio-site/</guid>
       <description>Overview I created this website entirely by myself to broaden job opportunities. It is supposed to be attached along with my resume. Built by the static site generator HUGO that allows me to post reports in markdown to perform regular updates.
@@ -53,12 +25,42 @@ Code Coded in HTML, SCSS, and pure JavaScript with HUGO</description>
     </item>
     
     <item>
+      <title>Primal Bodycare</title>
+      <link>https://amazonessari.github.io/primal-bodycare/</link>
+      <pubDate>Sat, 21 Dec 2019 17:49:12 +0900</pubDate>
+      
+      <guid>https://amazonessari.github.io/primal-bodycare/</guid>
+      <description>Overview Our affiliated company produced a personal body coach that diagnoses, analyzes and improves your body. I created the teaser page and the website containing 6 pages for their open.
+Visit Website
+My role Research Researched about the company and other LP by competitors
+Wireframe Placed provided contents without color or assets in Figma
+Design Designed statically including all assets in Figma
+Code HTML, SCSS and JavaScript with Parcel</description>
+    </item>
+    
+    <item>
+      <title>PROGRIT</title>
+      <link>https://amazonessari.github.io/progrit/</link>
+      <pubDate>Fri, 08 Nov 2019 11:45:17 +0900</pubDate>
+      
+      <guid>https://amazonessari.github.io/progrit/</guid>
+      <description>Overview This is an intern recruitment LP for our clients to communicate enthusiasm to specific targets.
+Visit Website
+My role Research Researched on the company
+Wireframe Made the contents in Figma
+Design Designed the static page in Figma
+Code Coded in HTML, SCSS with the web application bundler Parcel
+Launch Deployed the repository on the server of our client   Team Fumiya Sorimachi Mentor Designer - Gave me a feedback</description>
+    </item>
+    
+    <item>
       <title>EoD</title>
       <link>https://amazonessari.github.io/eod/</link>
       <pubDate>Sun, 27 Oct 2019 22:58:39 +0900</pubDate>
       
       <guid>https://amazonessari.github.io/eod/</guid>
-      <description>Overview When our affiliated company was launched, I created a corporate site to share the outline of the company. I did it with the web design tool STUDIO that allows you to create responsive static sites by dragg and dropp so that non-developers can edit it later. 
+      <description>Overview When our affiliated company was launched, I created a corporate site to share the outline of the company. I did it with the web design tool STUDIO that allows you to create responsive static sites by dragg and dropp so that non-developers can edit it later.
+Visit Website
 My role Research About EoD and Studio
 Design Static design in the tool Studio
   Team Fumiya Sorimachi Mentor Designer - Gave me a feedback</description>
@@ -88,7 +90,7 @@ Design Static design in the tool Studio
       <pubDate>Sun, 07 Apr 2019 12:23:19 +0900</pubDate>
       
       <guid>https://amazonessari.github.io/how-i-learned/</guid>
-      <description>Background I started customizing HTML/CSS at 12 years old for my diary blog. However, since I was too eager in it, my mom took the laptop away from me soon. Since then, I had not touched a computer.
+      <description>My background I started customizing HTML/CSS at 12 years old for my diary blog. However, since I was too eager in it, my mom took the laptop away from me soon. Since then, I had not touched a computer.
 Meanwhile, I was dreaming to live abroad because I only grew up in a small town in Japan with seeing other cultures through media but no chance to travel. Finally, I made it to NewZealand and Australia for a long stay at 19 after saving up.</description>
     </item>
     
