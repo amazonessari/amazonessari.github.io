@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ARIFOLIO</title>
-    <link>https://amazonessari.github.io/</link>
+    <link>http://arifolio.work/</link>
     <description>Recent content on ARIFOLIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 22:59:02 +0900</lastBuildDate>
     
-	<atom:link href="https://amazonessari.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://arifolio.work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Portfolio Site</title>
-      <link>https://amazonessari.github.io/portfolio-site/</link>
+      <link>http://arifolio.work/portfolio-site/</link>
       <pubDate>Tue, 07 Jan 2020 22:59:02 +0900</pubDate>
       
-      <guid>https://amazonessari.github.io/portfolio-site/</guid>
+      <guid>http://arifolio.work/portfolio-site/</guid>
       <description>Overview I created this website entirely by myself to broaden job opportunities. It is supposed to be attached along with my resume. Built by the static site generator HUGO that allows me to post reports in markdown to perform regular updates.
 My role Research Researched on award winners websites, HUGO, and JavaScript
 Wireframe Made all the contents in Figma
@@ -26,10 +26,10 @@ Code Coded in HTML, SCSS, and pure JavaScript with HUGO</description>
     
     <item>
       <title>Primal Bodycare</title>
-      <link>https://amazonessari.github.io/primal-bodycare/</link>
+      <link>http://arifolio.work/primal-bodycare/</link>
       <pubDate>Sat, 21 Dec 2019 17:49:12 +0900</pubDate>
       
-      <guid>https://amazonessari.github.io/primal-bodycare/</guid>
+      <guid>http://arifolio.work/primal-bodycare/</guid>
       <description>Overview Our affiliated company produced a personal body coach that diagnoses, analyzes and improves your body. I created the teaser page and the website containing 6 pages for their open.
 Visit Website
 My role Research Researched about the company and other LP by competitors
@@ -40,10 +40,10 @@ Code HTML, SCSS and JavaScript with Parcel</description>
     
     <item>
       <title>PROGRIT</title>
-      <link>https://amazonessari.github.io/progrit/</link>
+      <link>http://arifolio.work/progrit/</link>
       <pubDate>Fri, 08 Nov 2019 11:45:17 +0900</pubDate>
       
-      <guid>https://amazonessari.github.io/progrit/</guid>
+      <guid>http://arifolio.work/progrit/</guid>
       <description>Overview This is an intern recruitment LP for our clients to communicate enthusiasm to specific targets.
 Visit Website
 My role Research Researched on the company
@@ -55,10 +55,10 @@ Launch Deployed the repository on the server of our client   Team Fumiya Sorimac
     
     <item>
       <title>EoD</title>
-      <link>https://amazonessari.github.io/eod/</link>
+      <link>http://arifolio.work/eod/</link>
       <pubDate>Sun, 27 Oct 2019 22:58:39 +0900</pubDate>
       
-      <guid>https://amazonessari.github.io/eod/</guid>
+      <guid>http://arifolio.work/eod/</guid>
       <description>Overview When our affiliated company was launched, I created a corporate site to share the outline of the company. I did it with the web design tool STUDIO that allows you to create responsive static sites by dragg and dropp so that non-developers can edit it later.
 Visit Website
 My role Research About EoD and Studio
@@ -68,28 +68,28 @@ Design Static design in the tool Studio
     
     <item>
       <title>GeekSalon</title>
-      <link>https://amazonessari.github.io/geeksalon/</link>
+      <link>http://arifolio.work/geeksalon/</link>
       <pubDate>Fri, 27 Sep 2019 22:58:27 +0900</pubDate>
       
-      <guid>https://amazonessari.github.io/geeksalon/</guid>
+      <guid>http://arifolio.work/geeksalon/</guid>
       <description>Overview GeekSalon is a programming community for university students to complete the planning, development, and release of an app in three months. Assuming a fictional trial event of this GeekSalon for female students, I designed a landing page as a design assignment with receiving feedback from seniors. However, when I proposed the design to the GeekSalon team, we decided to realize the event in autumn 2019 expecting to create new value and synergy.</description>
     </item>
     
     <item>
       <title>MANOMA</title>
-      <link>https://amazonessari.github.io/manoma/</link>
+      <link>http://arifolio.work/manoma/</link>
       <pubDate>Tue, 27 Aug 2019 22:57:55 +0900</pubDate>
       
-      <guid>https://amazonessari.github.io/manoma/</guid>
+      <guid>http://arifolio.work/manoma/</guid>
       <description>Overview MANOMA is a new smart home service provided by SONY. Our company sells it targeting 20’s. I designed a flyer as product descriptions used in face-to-face sales. I made it as my first design job with learning Illustrator and Photoshop. The reason why I came to design this flyer is because their original flyer did not have a hierarchy. We solved it by emphasizing the message &amp;ldquo;Switch easily at the low price&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>How I Learned</title>
-      <link>https://amazonessari.github.io/how-i-learned/</link>
+      <link>http://arifolio.work/how-i-learned/</link>
       <pubDate>Sun, 07 Apr 2019 12:23:19 +0900</pubDate>
       
-      <guid>https://amazonessari.github.io/how-i-learned/</guid>
+      <guid>http://arifolio.work/how-i-learned/</guid>
       <description>My background I started customizing HTML/CSS at 12 years old for my diary blog. However, since I was too eager in it, my mom took the laptop away from me soon. Since then, I had not touched a computer.
 Meanwhile, I was dreaming to live abroad because I only grew up in a small town in Japan with seeing other cultures through media but no chance to travel. Finally, I made it to NewZealand and Australia for a long stay at 19 after saving up.</description>
     </item>
