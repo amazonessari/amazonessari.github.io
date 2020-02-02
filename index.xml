@@ -17,11 +17,11 @@
       <pubDate>Tue, 07 Jan 2020 22:59:02 +0900</pubDate>
       
       <guid>http://arifolio.work/portfolio-site/</guid>
-      <description>Overview I created this website entirely by myself to broaden job opportunities. It is supposed to be attached along with my resume. Built by the static site generator HUGO that allows me to post reports in markdown to perform regular updates.
+      <description>Overview 私は仕事のチャンスを広げるために、このサイトをすべて自分で作りました。 履歴書などの文書からリンクされることを想定しています。 今回は静的サイトジェネレーターのHUGOを使いました。これにより静的サイトにも関わらずマークダウン形式のファイルを作ることで記事を投稿することが可能になります。
+I created this website entirely by myself to broaden job opportunities. It is supposed to be attached along with my resume. Built by the static site generator HUGO that allows me to post reports in markdown to perform regular updates.
 My role Research Researched on award winners websites, HUGO, and JavaScript
 Wireframe Made all the contents in Figma
-Design Designed the static page in Figma
-Code Coded in HTML, SCSS, and pure JavaScript with HUGO</description>
+Design Designed the static page in Figma</description>
     </item>
     
     <item>
@@ -30,7 +30,8 @@ Code Coded in HTML, SCSS, and pure JavaScript with HUGO</description>
       <pubDate>Sat, 21 Dec 2019 17:49:12 +0900</pubDate>
       
       <guid>http://arifolio.work/primal-bodycare/</guid>
-      <description>Overview Our affiliated company produced a personal body coach that diagnoses, analyzes and improves your body. I created the teaser page and the website containing 6 pages for their open.
+      <description>Overview 姉妹会社が分断された一連の身体のコトを一貫して診断、分析、向上させるパーソナルボディーコーチ primal bodycareをプロデュースをしました。 それにあたり今回はティザーページと6ページを含むウェブサイトを作成しました。
+Our affiliated company produced a personal body coach that diagnoses, analyzes and improves your body. I created the teaser page and the website containing 6 pages for their open.
 Visit Website
 My role Research Researched about the company and other LP by competitors
 Wireframe Placed provided contents without color or assets in Figma
@@ -44,7 +45,8 @@ Code HTML, SCSS and JavaScript with Parcel</description>
       <pubDate>Fri, 08 Nov 2019 11:45:17 +0900</pubDate>
       
       <guid>http://arifolio.work/progrit/</guid>
-      <description>Overview This is an intern recruitment LP for our clients to communicate enthusiasm to specific targets.
+      <description>Overview 外部クライアントのインターン募集LPを作成しました。これは特定のターゲットに向けてその情熱を伝えるために作りました。
+This is an intern recruitment LP for our clients to communicate enthusiasm to specific targets.
 Visit Website
 My role Research Researched on the company
 Wireframe Made the contents in Figma
@@ -59,7 +61,8 @@ Launch Deployed the repository on the server of our client   Team Fumiya Sorimac
       <pubDate>Sun, 27 Oct 2019 22:58:39 +0900</pubDate>
       
       <guid>http://arifolio.work/eod/</guid>
-      <description>Overview When our affiliated company was launched, I created a corporate site to share the outline of the company. I did it with the web design tool STUDIO that allows you to create responsive static sites by dragg and dropp so that non-developers can edit it later.
+      <description>Overview 姉妹会社EoD発足にあたり、クライアントに会社について知ってもらう事を目的とするコーポレートサイトを作成しました。 今回は後から非開発者の担当者も編集ができるように、ドラッグ&amp;amp;ドロップで誰でも編集ができるWebデザインツールSTUDIOを使用しました。
+When our affiliated company was launched, I created a corporate site to share the outline of the company. I did it with the web design tool STUDIO that allows you to create responsive static sites by drag and drop so that non-developers can edit it later.
 Visit Website
 My role Research About EoD and Studio
 Design Static design in the tool Studio
@@ -72,7 +75,8 @@ Design Static design in the tool Studio
       <pubDate>Fri, 27 Sep 2019 22:58:27 +0900</pubDate>
       
       <guid>http://arifolio.work/geeksalon/</guid>
-      <description>Overview GeekSalon is a programming community for university students to complete the planning, development, and release of an app in three months. Assuming a fictional trial event of this GeekSalon for female students, I designed a landing page as a design assignment with receiving feedback from seniors. However, when I proposed the design to the GeekSalon team, we decided to realize the event in autumn 2019 expecting to create new value and synergy.</description>
+      <description>Overview GeekSalonとはアプリの企画から開発、リリースまでを３ヶ月で完成できる大学生限定のプログラミングコミュニティです。このコミュニティは新たな価値の創出や相乗効果を期待し、この秋に女子体験会を各コース開催する事にしました。 今回は、この体験会で女子大学生の関心を集めるためのランディングページをデザインしました。
+GeekSalon is a programming community for university students to complete the planning, development, and release of an app in three months. Assuming a fictional trial event of this GeekSalon for female students, I designed a landing page as a design assignment with receiving feedback from seniors. However, when I proposed the design to the GeekSalon team, we decided to realize the event in autumn 2019 expecting to create new value and synergy.</description>
     </item>
     
     <item>
@@ -81,7 +85,8 @@ Design Static design in the tool Studio
       <pubDate>Tue, 27 Aug 2019 22:57:55 +0900</pubDate>
       
       <guid>http://arifolio.work/manoma/</guid>
-      <description>Overview MANOMA is a new smart home service provided by SONY. Our company sells it targeting 20’s. I designed a flyer as product descriptions used in face-to-face sales. I made it as my first design job with learning Illustrator and Photoshop. The reason why I came to design this flyer is because their original flyer did not have a hierarchy. We solved it by emphasizing the message &amp;ldquo;Switch easily at the low price&amp;rdquo;.</description>
+      <description>Overview MANOMAとはソニーが提供する新しいスマートホームサービスです。Amazon Alexaを搭載し音声によるサービスコントロールが可能な上、LTE SIMを挿す事で工事不要で簡単に無線インターネット環境を構築で きます。 インターン先の会社ではこのMANOMAを20代の男女を中心に訪問販売しており、対面時に商品説明の際に使われる資料となるフライヤーをデザインさせて頂くことになりました。
+MANOMA is a new smart home service provided by SONY. Our company sells it targeting 20’s. I designed a flyer as product descriptions used in face-to-face sales. I made it as my first design job with learning Illustrator and Photoshop. The reason why I came to design this flyer is because their original flyer did not have a hierarchy. We solved it by emphasizing the message &amp;ldquo;Switch easily at the low price&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -90,8 +95,13 @@ Design Static design in the tool Studio
       <pubDate>Sun, 07 Apr 2019 12:23:19 +0900</pubDate>
       
       <guid>http://arifolio.work/how-i-learned/</guid>
-      <description>My background I started customizing HTML/CSS at 12 years old for my diary blog. However, since I was too eager in it, my mom took the laptop away from me soon. Since then, I had not touched a computer.
-Meanwhile, I was dreaming to live abroad because I only grew up in a small town in Japan with seeing other cultures through media but no chance to travel. Finally, I made it to NewZealand and Australia for a long stay at 19 after saving up.</description>
+      <description>Overview ここでは私のバックグラウンド、デザイナーとして働き始めるまでの道のりについて紹介していきます。
+I am sharing my background and my journey to start my design career here.
+My background 私は12歳の時にブログをカスタマイズするためにHTMLとCSSのコーディングを始めました。 しかし、私があまりにも夢中だったため、すぐにパソコンを取り上げられてしまいました。それから、コンピューターに触れることはずっとありませんでした。
+一方でメディアから海外の文化に影響を受けながらも日本を出る機会は一度もなく、ずっと名古屋で育ちました。海外への憧れはどんどん膨れ上がり、ついに私は高校卒業後に自分でお金を貯め、19歳で海外での生活を始めることにしました。ニュージーランドで語学学生として、オーストラリアでは介護や農業の仕事をしながらしながらバックパッカーとして生活していました。
+旅先では様々なバックグラウンドを持った世界中の人々と出会いました。その中でもIT業界の社長やフリーランサーに強く影響を受け、その柔軟性や創造性のある仕事に憧れるようになりました。 子供時代を思い出し、デザインとコーディングを夢中になって楽しめる確信が私にはありました。そうして新たなキャリアを始めることに決めたのです。
+I started coding HTML/CSS at 12 years old for my diary blog. However, since I was too eager in it, my mom took the laptop away from me soon. Since then, I had not touched a computer.
+Meanwhile, I was dreaming to live abroad because I only grew up in a small town in Japan with seeing other cultures through media but no chance to travel.</description>
     </item>
     
   </channel>
